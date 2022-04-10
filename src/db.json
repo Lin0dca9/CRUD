@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "alunos": [
+    {
+      "nome": "tu me deve um sorvete",
+      "email": "luiz@email.com",
+      "telefone": "56666554",
+      "id": 2
+    },
+    {
+      "nome": "chega",
+      "email": "ithjrhuoiu6io@huirehgurw.com",
+      "telefone": "868886",
+      "id": 3
+    },
+    {
+      "nome": "antonio",
+      "email": "antonio.humberto@unemat.com",
+      "telefone": "6599999999970707",
+      "id": 4
+    }
+  ]
+}
